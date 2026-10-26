@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 4 - Struktur Data</h1>
-<p align="center">Trisna Kusuma Ramadhany - 10312400277</p>
+<p align="center">Trisna Kusuma Ramadhany - 103112400277</p>
 
 ## Dasar Teori
 
