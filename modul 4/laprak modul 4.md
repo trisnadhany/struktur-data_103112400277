@@ -21,7 +21,7 @@ File ini juga mendeklarasikan operasi seperti `createList()`, `alokasi()`, `deal
 
 ### 2. `list.cpp`
 
-![Kode list.cpp](gambar/gambar2.png)p
+![Kode list.cpp](gambar/gambar2.png)
 
 File `list.cpp` berisi implementasi fungsi dan prosedur yang telah dideklarasikan pada `list.h`. Fungsi `isEmpty()` memeriksa apakah list kosong, sedangkan `createList()` menginisialisasi pointer pertama dengan `Nil`. Fungsi `alokasi()` membuat node baru dan mengisi data nama, NIM, serta umur. Prosedur `dealokasi()` menghapus node dan mengembalikan memori yang digunakan kepada sistem.
 
